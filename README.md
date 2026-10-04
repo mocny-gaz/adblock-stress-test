@@ -13,6 +13,6 @@ https://media.githubusercontent.com/media/mocny-gaz/adblock-stress-test/refs/hea
 https://media.githubusercontent.com/media/mocny-gaz/adblock-stress-test/refs/heads/main/stresstest_part2.txt        
 in total has 123m~ lines of rules and bs which is a massive stress test for an adblocker, which is often too much                                  
 
-*optimised version:*
+*optimised version:*                       
 https://media.githubusercontent.com/media/mocny-gaz/adblock-stress-test/refs/heads/main/stresstest_lite.txt                               
 in total has 24m~ rules without bs which is a way lighter test but still big
